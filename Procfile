@@ -1,1 +1,1 @@
-web: python3 terabox.py
+web: bash start.sh
